@@ -1,0 +1,23 @@
+**Routage de l'API
+go get github.com/gorilla/mux
+
+**ORM
+go get -u gorm.io/gorm
+go get gorm.io/driver/postgres
+
+**Variables d'environnement
+go get github.com/joho/godotenv
+
+
+**Pour compiler tous les fichier *.go
+go run .
+
+**Pour générer des uuid
+go get github.com/google/uuid
+
+**Pour les JSON web tokens
+go get github.com/dgrijalva/jwt-go
+
+**Pour les CORS
+go get -u github.com/rs/cors
+
